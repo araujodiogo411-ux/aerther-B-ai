@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Aether Base",
+  "description": "Plataforma minimalista e sofisticada de IA criada por Davi Felipe.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
